@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53ba8358-9091-45c7-93ab-d62adff33880" name="Changes" comment="1task">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/task1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ABC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ASCII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cubes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gamble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remainder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Summ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task1.iml" afterDir="false" />
-    </list>
+    <list default="true" id="53ba8358-9091-45c7-93ab-d62adff33880" name="Changes" comment="1task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665964428073</updated>
     </task>
+    <task id="LOCAL-00001" summary="1task">
+      <created>1666047081282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666047081282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
